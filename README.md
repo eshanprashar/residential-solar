@@ -3,7 +3,7 @@
 This repo contains the summary the work I did from June'23 - Feb '24 with [Prof. Kim Wolske](https://epic.uchicago.edu/people/kim-wolske/) at the Energy Policy Institute at University of Chicago. 
 
 ## Problem: 
-NREL breaks down rooftop solar installation costs into two buckets: hardware and _soft costs_. While hardware costs have come down in the last decade, soft costs haven't. A big chunk of these soft costs are _marketing and outreach_, which are high because solar installations are retrofits. DoE wanted to understand what might it take for home builders to install panels at the time of constructing the house. 
+NREL breaks down rooftop solar installation costs into two buckets: hardware and _soft costs_. While hardware costs have come down in the last decade, soft costs haven't. A big chunk of these soft costs are _marketing and outreach_, which are high because solar installations are retrofits. DoE wanted to understand what might it take for home builders to move away from a retrofitting approach and install panels at the time of constructing the house. 
 
 ## Approach:
 Our project involved two components:
